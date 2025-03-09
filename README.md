@@ -19,12 +19,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ## 📌 Мои проекты  
-- 🚀 **[Telegram-бот для турагентства](https://github.com/GeorgeBlackbird/TravelAgencyBot)** – помогает автоматизировать общение с клиентами  
-- 📊 **[Прогнозирование временных рядов (SARIMA)](https://github.com/GeorgeBlackbird/TimeSeriesForecasting)** – Python-программа для предсказания данных  
+- 🚀 **[Telegram-бот для турагентства](https://github.com/GeorgeBlackbird/U-ON_Notifications_Bot)** – помогает автоматизировать общение с клиентами  
+- 📊 **[Прогнозирование временных рядов (SARIMA)](https://github.com/GeorgeBlackbird/SARIMA)** – Python-программа для предсказания данных  
 - 📁 **[Другие проекты](https://github.com/GeorgeBlackbird?tab=repositories)**  
 
 ## 📫 Связаться со мной  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maad_kid)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeorgeBlackbird)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeorgeBlackbird)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drozdoff.georgiy@yandex.ru)
 
 🚀 **Буду рад сотрудничеству и новым проектам!**  
