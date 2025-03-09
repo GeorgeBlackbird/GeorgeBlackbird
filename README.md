@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Привет! Я Георгий Дроздов  
 
-<!--
-**GeorgeBlackbird/GeorgeBlackbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Junior Python Developer | Data Enthusiast**  
+🎯 Изучаю машинное обучение, API, работу с базами данных  
+🌍 Екатеринбург, Россия  
 
-Here are some ideas to get you started:
+## 🚀 Обо мне  
+- 🛠️ Разрабатываю Telegram-ботов и веб-приложения  
+- 📊 Интересуюсь анализом данных и машинным обучением  
+- 📚 Постоянно учусь новым технологиям и практикуюсь в написании чистого кода  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Навыки и технологии  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+## 📌 Мои проекты  
+- 🚀 **[Telegram-бот для турагентства](https://github.com/GeorgeBlackbird/TravelAgencyBot)** – помогает автоматизировать общение с клиентами  
+- 📊 **[Прогнозирование временных рядов (SARIMA)](https://github.com/GeorgeBlackbird/TimeSeriesForecasting)** – Python-программа для предсказания данных  
+- 📁 **[Другие проекты](https://github.com/GeorgeBlackbird?tab=repositories)**  
+
+## 📫 Связаться со мной  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maad_kid)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeorgeBlackbird)  
+
+🚀 **Буду рад сотрудничеству и новым проектам!**  
