@@ -66,4 +66,7 @@
 
 ---
 
-> 🚀 **Буду рад сотрудничеству и новым проектам!**  
+> 🚀 **Буду рад сотрудничеству и новым проектам!**
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=GeorgeBlackbird&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en">
