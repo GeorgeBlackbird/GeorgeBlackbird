@@ -24,11 +24,11 @@
 ### 📊 GitHub статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeBlackbird&show_icons=true&theme=github_dark&hide=issues" height="100"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBlackbird&layout=compact&theme=github_dark" height="100"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeBlackbird&show_icons=true&theme=github_dark&hide=issues" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBlackbird&layout=compact&theme=github_dark" height="150"/>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GeorgeBlackbird&theme=dark&hide_border=true" height="100"/>
+  <img src="https://streak-stats.demolab.com?user=GeorgeBlackbird&theme=dark&hide_border=true" height="150"/>
 </div>
 
 ---
