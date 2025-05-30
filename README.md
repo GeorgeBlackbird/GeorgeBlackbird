@@ -45,10 +45,10 @@
 
 ### 📫 Контакты
 
-<div align="center">
+<div align="left">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maad_kid)
-[![Email](https://img.shields.io/badge/dev.georgiy.drozdov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.georgiy.drozdov@gmail.com)
+[![Telegram](https://skills-icons.vercel.app/api/icons?i=telegram)](https://t.me/maad_kid)
+[![Email](https://skills-icons.vercel.app/api/icons?i=gmail)](mailto:dev.georgiy.drozdov@gmail.com)
 
 </div>
 
