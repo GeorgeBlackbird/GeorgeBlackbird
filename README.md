@@ -1,5 +1,6 @@
-<h1 align="center">Привет, я Георгий 👋</h1>
-<h3 align="center">Веб-разработчик / студент-программист</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=72&pause=1000&center=true&width=1000&height=150&lines=Привет%2C+я+Георгий!+👋;Веб-разработчик+👩‍💻;Студент-программист+👨‍🎓;" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -45,10 +46,15 @@
 
 ### 📫 Контакты
 
-<div align="left">
+<div align="center" style="border: 2px solid; border-image: linear-gradient(45deg, #42d392, #647eff) 1; border-radius: 10px; padding: 10px; margin-top: 10px;">
 
 [![Telegram](https://skills-icons.vercel.app/api/icons?i=telegram)](https://t.me/maad_kid)
 [![Email](https://skills-icons.vercel.app/api/icons?i=gmail)](mailto:dev.georgiy.drozdov@gmail.com)
 
+</div>
+
+<div align="center" style="border: 2px solid; border-image: linear-gradient(45deg, #42d392, #647eff) 1; border-radius: 10px; padding: 10px; margin-top: 10px;">
+  <a href="https://t.me/maad_kid"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:dev.georgiy.drozdov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
